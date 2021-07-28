@@ -139,6 +139,7 @@ body {
 /* Sidebar */
 .ChatChannelList-container {
     background: transparent !important;
+    font-family: 'Minecraftia';
 }
 .ChatChannelListItem-container-selected {
     background: rgba(64, 67, 78, 0.5);
