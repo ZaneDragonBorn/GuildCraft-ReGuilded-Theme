@@ -144,6 +144,7 @@ body {
     background: rgba(64, 67, 78, 0.5);
     border-radius: 7px;
     backdrop-filter: blur(10px);
+    font-family: 'Minecraftia';
 }
 /** Matchmaking **/
 .StretchBackground-container.StretchBackground-container-default.StretchFadeBackground-stretch-bg {
