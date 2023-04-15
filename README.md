@@ -1,3 +1,5 @@
+> # This theme is no longer being maintained since Febuary of 2021. All further fixes will be handled by the user.
+
 # GuildCraft-ReGuilded-Theme
 This is a Minecraft Inspired Theme for [ReGuilded](https://github.com/ReGuilded/ReGuilded) (A Client Mod for Themes and Plugins on Guilded). This Theme comes with a Major Change to Both the Legacy Nav and New Nav.
 
